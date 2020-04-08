@@ -27,6 +27,10 @@ header nav ul li {
     display: inline-block;
 }
 
+.container {
+    margin: 20px;
+    height: fit-content;
+}
 [class*="col-"] {
     padding-top: 20px;
     padding-bottom: 20px;
