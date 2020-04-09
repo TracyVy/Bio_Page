@@ -1,4 +1,4 @@
-* {
+/* * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -27,7 +27,7 @@ h2 {
 /* .nav-item {
     justify-content: flex-end;
 } */
-
+/* 
 a {
     justify-content: flex-end;
     color: rgb(101, 101, 143);
@@ -47,4 +47,4 @@ a {
 
 .card mb-3 {
     padding: 20px;
-}
+} */ */
