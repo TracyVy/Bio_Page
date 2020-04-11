@@ -7,9 +7,7 @@ To build a site that will look nice on different size screens.
 # Build Status
 This site is complete.
 
-# Code Style
-
-#Tech/Framework used
+# Tech/Framework used
 This webpage is based on HTML, CSS, and Bootstrap container framework.
 
 # Features
