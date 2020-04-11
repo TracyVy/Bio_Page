@@ -14,3 +14,4 @@ This webpage is based on HTML, CSS, and Bootstrap container framework.
 - A inline nav-menu is displayed on small screens or bigger. Toggle button with drop-down menu will appear in smaller screens.
 - A Bootstrap card with image, text and social media icons with assigned links.
 - A landing page with background image.
+- a footer with social media icons with assigned links.
