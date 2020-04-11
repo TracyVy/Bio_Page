@@ -42,13 +42,12 @@ h1{
 
 .padding img {
     width: 100%;
+
 }
 
-.card-img-top {
-    /* margin: 0 auto; */
-    margin-left: 100px;
+.card {
+    text-align: center;
 }
-
 footer {
     background-color: #23415C;
     padding: 1% 0;
