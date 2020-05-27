@@ -4,18 +4,18 @@ body {
   width: 100%;
 }
 
-.navbar {
-  background-color: #23415c;
-  padding: 1% 0;
-  font-size: 16px;
-}
-
 h1 {
   margin-top: 0px;
   padding: 0 15px;
   color: #ece8e8;
   display: inline-block;
   font-size: 48px;
+}
+
+.navbar {
+  background-color: #23415c;
+  padding: 1% 0;
+  font-size: 16px;
 }
 
 .navbar-default .navbar-nav li a {
@@ -28,7 +28,6 @@ h1 {
 .navbar-default .navbar-nav li a:active {
   color: #2e8cd8;
 }
-
 #home {
   background: url(images/home.jpg) no-repeat center center fixed;
   height: 100%;
@@ -37,7 +36,6 @@ h1 {
   position: relative;
   background-size: cover;
 }
-
 .padding {
   padding: 80px;
 }
