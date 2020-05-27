@@ -28,6 +28,7 @@ h1 {
 .navbar-default .navbar-nav li a:active {
   color: #2e8cd8;
 }
+
 #home {
   background: url(images/home.jpg) no-repeat center center fixed;
   height: 100%;
@@ -36,11 +37,11 @@ h1 {
   position: relative;
   background-size: cover;
 }
-.padding {
+.info {
   padding: 80px;
 }
 
-.padding img {
+.info img {
   width: 100%;
 }
 
