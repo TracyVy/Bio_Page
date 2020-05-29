@@ -17,5 +17,9 @@ This site is a work-in-progress as I will periodically add more project links.
 - [ ] A landing page with background image.
 - [ ] A sticky footer with social media icons.
 - [ ] HTML, CSS, and Bootstrap container framework.
-- [ ] Stripe API call.
+- [ ] Inquiry form
 - [ ] Form API integration.
+
+# Future developments
+
+- [ ] Capturing data in inquiry form into a database.
