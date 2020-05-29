@@ -46,12 +46,18 @@ h1 {
 }
 
 .card {
-  margin-top: 100px;
   text-align: center;
+  display: grid;
+  justify-content: center;
+  align-content: center;
 }
 
 footer {
   background-color: #23415c;
   padding: 1% 0;
   color: #ece8e8;
+}
+
+footer .fa {
+  font-size: 30px;
 }
