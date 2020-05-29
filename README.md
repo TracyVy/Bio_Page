@@ -18,8 +18,10 @@ This site is a work-in-progress as I will periodically add more project links.
 - A sticky footer with social media icons.
 - HTML, CSS, and Bootstrap container framework.
 - Inquiry form
+- Github links to other projects
 
 # Future developments
 
 - [ ] Capturing data in inquiry form into a database.
 - [ ] Stripe API call
+- [ ] More Github links
