@@ -13,13 +13,13 @@ This site is a work-in-progress as I will periodically add more project links.
 
 # Features
 
-- [ ] An inline nav-menu is displayed on small screens or bigger. Toggle button with drop-down menu will appear in x-small screens.
-- [ ] A landing page with background image.
-- [ ] A sticky footer with social media icons.
-- [ ] HTML, CSS, and Bootstrap container framework.
-- [ ] Inquiry form
-- [ ] Form API integration.
+- An inline nav-menu is displayed on small screens or bigger. Toggle button with drop-down menu will appear in x-small screens.
+- A landing page with background image.
+- A sticky footer with social media icons.
+- HTML, CSS, and Bootstrap container framework.
+- Inquiry form
 
 # Future developments
 
 - [ ] Capturing data in inquiry form into a database.
+- [ ] Stripe API call
